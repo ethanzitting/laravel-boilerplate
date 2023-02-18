@@ -30,3 +30,5 @@ Stack:
 - Blade
 - AlpineJS
 - TailwindJS
+- PicoCSS
+- TailwindCSS
