@@ -1,4 +1,6 @@
 # Laravel Boilerplate
+[![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2F8668f2a1-6574-4533-8f64-84216286e1fb&style=flat)](https://forge.laravel.com)
+![Build Status](https://app.chipperci.com/projects/ae563710-4d44-4b44-857e-900a37f7ade5/status/main)
 
 Requirements:
 - Docker Desktop
